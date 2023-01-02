@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2023-01-02
+img: Olympic_Logo.bmp
+alt: image-alt
+project-date: April 2014
+client: Python 3
+gitHubURL: https://github.com/eHag-FRU/Adv.-Geometry-Logo
+category: Desktop Development
+description: This project was made for high school advanced geometry. The original project asked for the student to draw an Olympic logo for a country they choose and to include different geometric aspects (tangents on a circle, different angles, etc.) I chose to do Japan, and asked the teacher if I could make a program to draw my logo instead of doing it by hand. This was done in Python with the Turtle library. At this point, I had not has any experience with object oriented programing. The code is messy, but I wanted to leave it in its original state. 
+---
