@@ -6,6 +6,9 @@ img: PC_Screenshot.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
+techStack: HTML 5, CSS 3, Some JavaScript and JQuery
+gitHubURL:  https://github.com/eHag-FRU/STEM-Honors-Portfolio/
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: The game is being developed for Android and desktop, with hopes to be able to make a IOS version soon. A single player version of the classic arcade game Pong.The Libido Java game development library is utilized in this projects with using InteliJ as the preferred IDE when dealing with LibGDX. The application was built using the Java 15.0.1 JDK for compatibility references. The android version is being worked on and could be published on the Google Play Store, just need a development license.
+
 ---

@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-01-02T14:37:52-05:00</updated>
+  <updated>2023-02-09T12:53:43-05:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -12,7 +12,7 @@
   
 
   
-    <subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle>
+    <subtitle>Elliott Hager&apos;s (Kent State University, BS CS, May 2025) Software Engineering and Computer Science Portfolio, with GitHub Repostiory Links</subtitle>
   
 
   
@@ -122,6 +122,40 @@
     </entry>
   
     <entry>
+      <title type="html">Bingo Caller Machine</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Bingo Caller Machine" />
+      <published>2014-07-15T00:00:00-04:00</published>
+      <updated>2014-07-15T00:00:00-04:00</updated>
+      <id>http://localhost:4000/Bingo-Caller-Machine</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">Pong (pc &amp;amp; Android)</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Pong (pc &amp; Android)" />
       <published>2014-07-15T00:00:00-04:00</published>
@@ -156,11 +190,11 @@
     </entry>
   
     <entry>
-      <title type="html">Project 7</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 7" />
+      <title type="html">West Liberty Salem Band Music Database</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="West Liberty  Salem Band Music Database" />
       <published>2014-07-15T00:00:00-04:00</published>
       <updated>2014-07-15T00:00:00-04:00</updated>
-      <id>http://localhost:4000/project-7</id>
+      <id>http://localhost:4000/West-Liberty--Salem-Band-Music-Database</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -190,11 +224,11 @@
     </entry>
   
     <entry>
-      <title type="html">Project 6</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 6" />
+      <title type="html">Qxq Quantum Computing Portfolio Website</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Qxq Quantum Computing Portfolio Website" />
       <published>2014-07-15T00:00:00-04:00</published>
       <updated>2014-07-15T00:00:00-04:00</updated>
-      <id>http://localhost:4000/project-6</id>
+      <id>http://localhost:4000/QxQ-Quantum-Computing-Portfolio-Website</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -224,11 +258,79 @@
     </entry>
   
     <entry>
-      <title type="html">Project 5</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 5" />
+      <title type="html">Pantry List</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Pantry List" />
+      <published>2014-07-15T00:00:00-04:00</published>
+      <updated>2014-07-15T00:00:00-04:00</updated>
+      <id>http://localhost:4000/Pantry-List</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Comic Book Inventory System</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Comic Book Inventory System" />
+      <published>2014-07-15T00:00:00-04:00</published>
+      <updated>2014-07-15T00:00:00-04:00</updated>
+      <id>http://localhost:4000/Comic-Book-Inventory-System</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">The Design Scribe Work</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="The Design Scribe Work" />
       <published>2014-07-14T00:00:00-04:00</published>
       <updated>2014-07-14T00:00:00-04:00</updated>
-      <id>http://localhost:4000/project-5</id>
+      <id>http://localhost:4000/The-Design-Scribe-Work</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
